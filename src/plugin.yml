@@ -1,5 +1,5 @@
 name: KingZombie
-author: ThisIsMac
+author: Arad119
 version: 1.0
 main: fr.thisismac.zombie.Core
 depend: [Essentials]
